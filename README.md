@@ -18,6 +18,3 @@ This project was built to practice DOM manipulation and improve frontend develop
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
-### Main Page
-![Main Page](home.jpeg)
