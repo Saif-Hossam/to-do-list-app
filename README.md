@@ -17,4 +17,4 @@ This project was built to practice DOM manipulation and improve frontend develop
 - JavaScript (Vanilla)
 
 ### Main Page
-![Main Page](images/home.jpeg)
+![Main Page](home.jpeg)
